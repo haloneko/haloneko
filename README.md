@@ -45,8 +45,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [BotNode](https://github.com/haloneko/BotNode) | 可自部署的机器人框架：画布连线编排工作流，OneBot/Kook 统一协议，异步日志/缓存/cron 开箱即用 | Python · FastAPI · React · TypeScript · Docker |
-| [AutoLogin](https://github.com/haloneko/srun-AutoLogin) | 校园网自动登录 | Rust + React |
+| [BotNode](https://github.com/haloneko/BotNode) | Self-Hostable Bot Framework: Visual Canvas Workflow Orchestration, Unified OneBot/Kook Protocol, Async Logging/Caching/Cron Out of the Box | Python · FastAPI · React · TypeScript · Docker |
+| [AutoLogin](https://github.com/haloneko/srun-AutoLogin) | Campus Network Auto-Login | Rust + React |
 | *coming soon* | — | C++ |
 
 ---
