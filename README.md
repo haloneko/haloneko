@@ -45,13 +45,15 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [ticknode](https://github.com/haloneko/BotNode) | Self-Hostable Bot Framework: Visual Canvas Workflow Orchestration, Unified OneBot/Kook Protocol, Async Logging/Caching/Cron Out of the Box | Python · FastAPI · React · TypeScript · Docker |
+| [tickneko](https://github.com/haloneko/BotNode) | Self-Hostable Bot Framework: Visual Canvas Workflow Orchestration, Unified OneBot/Kook Protocol, Async Logging/Caching/Cron Out of the Box | Python · FastAPI · React · TypeScript · Docker |
 | [AutoLogin](https://github.com/haloneko/srun-AutoLogin) | Campus Network Auto-Login | Rust + React |
 | *coming soon* | — | C++ |
 
 ---
 
 ## LeetCode
+
+![LeetCode](https://stats.justsong.cn/api/leetcode?username=bitbad&cn=true&theme=dark)
 
 ![LeetCode](https://leetcard.jacoblin.cool/bitbad?site=cn&ext=activity)
 
